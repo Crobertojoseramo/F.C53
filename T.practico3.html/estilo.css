@@ -1,0 +1,64 @@
+body{
+    background-image: url("./imagenes/fondo.jpg");
+    background-size: cover;
+   
+  
+  }
+  legend{
+    text-transform: uppercase;
+    background-color: rgb(0, 157, 255);
+    
+  }
+  h1{
+  text-align: center;
+  text-transform: uppercase;
+  background-color: red;
+  }
+  fieldset{
+     text-align: center;
+    
+  }
+  select{
+      background-color: rgb(0, 157, 255);
+       text-align: center;
+      height: 25px;
+      text-transform: uppercase;
+      color:#fff;
+      margin-bottom: 20px;
+      cursor: pointer;
+      padding: 0px;
+  }
+  
+  input{  
+      
+      text-align: center;
+      height: 27px;
+      margin-bottom: 20px;
+      cursor: pointer;
+  }
+  
+  form{
+    background-image: url("./imagenes/fondo.jpg");
+    background-size: cover;
+       
+  }
+  button{
+      text-transform: uppercase;
+      background-color: rgb(8, 80, 136);
+      color:#fff;
+      cursor: pointer;
+  }
+  label{
+    color:#fff;
+  }
+  footer{
+      background-color: red;
+      color:black;
+      text-align: center;
+      height: 40px;
+      line-height: 20px;
+  }
+  /*configuracion del diseño responsivo*/
+  @media(max-wwidth: 600px){
+    
+  }
